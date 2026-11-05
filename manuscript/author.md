@@ -1,7 +1,7 @@
 {sample: true}
 # About the Author
 
-Jens Oliver Meiert is a frontend engineering leader (e.g., Google, Miro) and author/publisher (O’Reilly, Frontend Dogma). He specializes in HTML and CSS optimization and large-scale maintainability, skills honed over more than 25 years of professional practice. A contributor to technical standards, Jens regularly writes about his work and research on his website, [meiert.com](https://meiert.com/).
+Jens Oliver Meiert is a frontend engineering leader (e.g., Google, Miro) and author/publisher (O’Reilly, dxsrc). He specializes in HTML and CSS optimization and large-scale maintainability, skills honed over more than 25 years of professional practice. A contributor to technical standards, Jens regularly writes about his work and research on his website, [meiert.com](https://meiert.com/).
 
 Other titles by Jens Oliver Meiert:
 
